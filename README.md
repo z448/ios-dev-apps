@@ -20,9 +20,9 @@ http://simp.ly/publish/PLBGFV
 
 [JSON Designer](https://itunes.apple.com/us/app/json-designer/id432736126?mt=8) create json diagram or  paste json and generate  diagram; export read/write code for multiple languages[$]
 
-**iCurlHTTP** curl GUI 
+[iCurlHTTP](https://itunes.apple.com/us/app/icurl/id480568361?mt=8) curl GUI 
 
-**Launcher** launch apps:// and http:// from noti center,**  possible to  send http request w\o opening safari
+**Launcher** launch apps:// and http:// from noti center, possible to  send http request w\o opening safari
 
 **pushover** noti service; multiple lang. API 
 
