@@ -22,6 +22,8 @@ http://simp.ly/publish/PLBGFV
 
 [iCurlHTTP](https://itunes.apple.com/us/app/icurl/id480568361?mt=8) curl GUI 
 
+[simplenote](https://itunes.apple.com/en/app/simplenote/id289429962?mt=8) plaintext notes, publish to www, tags
+
 **Launcher** launch apps:// and http:// from noti center, possible to  send http request w\o opening safari
 
 **pushover** noti service; multiple lang. API 
