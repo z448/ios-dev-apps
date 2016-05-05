@@ -2,23 +2,23 @@
 http://simp.ly/publish/PLBGFV
 
 ###code
-**ServerAuditor** ssh client
+[ServerAuditor](https://itunes.apple.com/en/app/serverauditor-ssh-shell-console/id549039908?mt=8) ssh client
 
-**SSHAutomator** define and execute cmd on remote server
+[SSHAutomator](https://itunes.apple.com/us/app/sshautomator/id959960392?mt=8) define and execute cmd on remote server
 
-**working copy** git client
+[working copy](https://itunes.apple.com/us/app/working-copy-powerful-git/id896694807?mt=8) git client
 
-**iKeywi** keyboard \w swipe cursor support + custom 5th row keys
+[iKeywi](https://itunes.apple.com/us/app/ikeywi-customizable-5-row/id921221684?mt=8) keyboard \w swipe cursor support + custom 5th row keys
 
-**textexpander** expand snippets, works \w texastic ...
+[textexpander](https://itunes.apple.com/us/app/textexpander-3-+-custom-keyboard/id917416298?mt=8) expand snippets; works \w any app if custom keyboard is enabled; + works w\o custom keyboard for supported apps such as Textastic, ServerAuditor
 
-**regEspresso** regular expressinos
+[regEspresso](https://itunes.apple.com/us/app/regespresso/id903640131?mt=8) regular expressinos
 
-**texastic** code editor, themes, syntax highlight, supports textexpander, support for dropbox, icloud, sftp..
+[texastic](https://itunes.apple.com/us/app/textastic-code-editor-6/id1049254261?mt=8) code editor, 'working copy' support, themes, syntax highlight, supports textexpander, support for dropbox, icloud, sftp.., also on osx
 
-**draft** 'middleware' texteditor, xcallbackurl, custom 5th row keyboard, markdown, javascript, import/export xcallbackurl definitons 
+[draft](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8) 'middleware' texteditor, x-callback-url, custom 5th row keyboard, markdown, javascript, import/export xcallbackurl definitons 
 
-**JSON Designer**   create json diagram or  paste json and generate  diagram; export read/write code for multiple languages[$]
+[JSON Designer](https://itunes.apple.com/us/app/json-designer/id432736126?mt=8) create json diagram or  paste json and generate  diagram; export read/write code for multiple languages[$]
 
 **iCurlHTTP** curl GUI 
 
