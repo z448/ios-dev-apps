@@ -24,8 +24,10 @@ http://simp.ly/publish/PLBGFV
 
 **pushover** noti service; multiple lang. API 
 
+
 ####messenger
 **telegram** open in everywhere, crypto, p2p
+
 
 ####cloud
 **owncloud**
@@ -37,6 +39,7 @@ http://simp.ly/publish/PLBGFV
 **dropbox**
 
 **mega** megaupload 
+
 
 ####graphics
 
@@ -51,6 +54,7 @@ http://simp.ly/publish/PLBGFV
 **Carbo**  take hidef pic of your hand-draw notes, diagrams etc.
 
 **regEspresso**   regular expressions
+
 
 
 ####read
@@ -69,6 +73,7 @@ http://simp.ly/publish/PLBGFV
 **foxbrowser**  web browser, sync firefox bookmarks
 
 **feedly**  rss; read on any device in browser 
+
 
 
 ####others
