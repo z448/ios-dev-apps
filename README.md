@@ -1,7 +1,7 @@
-### AppStore iOS apps for development
+## AppStore iOS apps for development
 http://simp.ly/publish/PLBGFV
 
-####code
+###code
 **ServerAuditor** ssh client, SSHAutomator, define and execute cmd on remote server
 
 **working copy** git client
@@ -25,11 +25,11 @@ http://simp.ly/publish/PLBGFV
 **pushover** noti service; multiple lang. API 
 
 
-####messenger
+###messenger
 **telegram** open in everywhere, crypto, p2p
 
 
-####cloud
+###cloud
 **owncloud**
 
 **cryptocloud owncloud**
@@ -41,7 +41,7 @@ http://simp.ly/publish/PLBGFV
 **mega** megaupload 
 
 
-####graphics
+###graphics
 
 **Grafio**  diagrams
 
@@ -57,7 +57,7 @@ http://simp.ly/publish/PLBGFV
 
 
 
-####read
+###read
 **iBooks + photo widget**   take pic of code snippet and place it on noti center 
 
 **dash doc API**   prog. documentation 
@@ -76,7 +76,7 @@ http://simp.ly/publish/PLBGFV
 
 
 
-####others
+###others
 **miniKeePass**  password manager, multiplatform, ssh key, built in browser allows user/pass paste
 
 **hippoRemote**  smooth remote touchpad \w keyboard, uses VNC over wifi instead of bluetooth therefore no receiver app needed
