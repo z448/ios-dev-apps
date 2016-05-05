@@ -32,9 +32,9 @@ http://simp.ly/publish/PLBGFV
 
 
 ###cloud
-**owncloud**
+**owncloud** official owncloud client
 
-**cryptocloud owncloud**
+**cryptocloud** unofficial owncloud clint \w custom crypto features (connects only to owncloud server \w ssl) 
 
 **sync** bittorrent sync, p2p, linux, ios, android,osx
 
