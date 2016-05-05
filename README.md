@@ -8,7 +8,7 @@ http://simp.ly/publish/PLBGFV
 
 **iKeywi** keyboard \w swipe cursor support + custom 5th row keys
 
-**extexpander** expand snippets, works \w texastic ...
+**textexpander** expand snippets, works \w texastic ...
 
 **regEspresso** regular expressinos
 
