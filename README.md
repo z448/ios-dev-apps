@@ -50,7 +50,7 @@ http://simp.ly/publish/PLBGFV
 
 [Adobe Illustrator](https://itunes.apple.com/us/app/adobe-illustrator-draw-scalable/id911156590?mt=8) draw, export to .svg
 
-**Photoshop Touch**  layers..., not in AppStore anymore; alternatives [Adobe Photoshop Express]9https://itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) + [Adobe Photoshop Fix](https://itunes.apple.com/us/app/adobe-photoshop-fix-retouch/id1033713849?mt=8)
+**Photoshop Touch**  layers..., not in AppStore anymore; alternatives [Adobe Photoshop Express](https://itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) + [Adobe Photoshop Fix](https://itunes.apple.com/us/app/adobe-photoshop-fix-retouch/id1033713849?mt=8)
 
 [Vidra](https://itunes.apple.com/us/app/vidra/id879072229?mt=8) presentations
 
