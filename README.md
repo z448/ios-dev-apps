@@ -33,11 +33,12 @@ http://simp.ly/publish/PLBGFV
 [telegram](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) open in everywhere, crypto, p2p
 
 ###cloud
+[sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) wont change permissions of synced files unlike cloud apps bellow /usefull for jailbroken devices when using terminal/, bittorrent sync, p2p, linux, ios, android,osx
+
 [owncloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) official owncloud client
 
 [cryptocloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) unofficial owncloud clint \w custom crypto features (connects only to owncloud server \w ssl) 
 
-[sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) bittorrent sync, p2p, linux, ios, android,osx
 
 [dropbox](https://itunes.apple.com/en/app/dropbox/id327630330?mt=8) API
 
