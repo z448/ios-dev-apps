@@ -24,66 +24,65 @@ http://simp.ly/publish/PLBGFV
 
 [simplenote](https://itunes.apple.com/en/app/simplenote/id289429962?mt=8) plaintext notes, publish to www, tags
 
-**Launcher** launch apps:// and http:// from noti center, possible to  send http request w\o opening safari
+[Launcher](https://itunes.apple.com/us/app/launcher-notification-center/id905099592?mt=8) launch apps:// and http:// from noti center, possible to  send http request w\o opening safari
 
-**pushover** noti service; multiple lang. API 
+[pushover](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) noti service; multiple lang. API 
 
 
 ###messenger
-**telegram** open in everywhere, crypto, p2p
-
+[telegram](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) open in everywhere, crypto, p2p
 
 ###cloud
-**owncloud** official owncloud client
+[owncloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) official owncloud client
 
-**cryptocloud** unofficial owncloud clint \w custom crypto features (connects only to owncloud server \w ssl) 
+[cryptocloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) unofficial owncloud clint \w custom crypto features (connects only to owncloud server \w ssl) 
 
-**sync** bittorrent sync, p2p, linux, ios, android,osx
+[sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) bittorrent sync, p2p, linux, ios, android,osx
 
-**dropbox**
+[dropbox](https://itunes.apple.com/en/app/dropbox/id327630330?mt=8) API
 
-**mega** megaupload 
+[mega](https://itunes.apple.com/us/app/mega/id706857885?mt=8) megaupload 
 
 
 ###graphics
 
-**Grafio**  diagrams
+[Grafio](https://itunes.apple.com/us/app/grafio-3-diagrams-ideas/id382418196?mt=8) diagrams
 
-**Adobe Illustrator**  draw, export to .svg
+[Adobe Illustrator](https://itunes.apple.com/us/app/adobe-illustrator-draw-scalable/id911156590?mt=8) draw, export to .svg
 
-**Photoshop Touch**  layers..., not in AppStore anymore
+**Photoshop Touch**  layers..., not in AppStore anymore; alternatives [Adobe Photoshop Express]9https://itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) + [Adobe Photoshop Fix](https://itunes.apple.com/us/app/adobe-photoshop-fix-retouch/id1033713849?mt=8)
 
-**Vidra**  presentations
+[Vidra](https://itunes.apple.com/us/app/vidra/id879072229?mt=8) presentations
 
-**Carbo**  take hidef pic of your hand-draw notes, diagrams etc.
+[Carbo](https://itunes.apple.com/us/app/carbo-handwriting-in-digital/id956811074?mt=8) take hidef pic of your hand-draw notes, diagrams etc.
 
-**regEspresso**   regular expressions
+[regEspresso](https://itunes.apple.com/us/app/regespresso/id903640131?mt=8) regular expressions
 
 
 
 ###read
-**iBooks + photo widget**   take pic of code snippet and place it on noti center 
+[photo widget](https://itunes.apple.com/us/app/photo-widget-secret-wall/id969122471?mt=8) take pic of code snippet and place it on noti center when reading ebook
 
-**dash doc API**   prog. documentation 
+[dash doc API](https://itunes.apple.com/us/app/dash-api-docs/id935284832?mt=8) prog. documentation 
 
-**octocat**   read github, 'copy git/gist URL clipboard
+[octocat](https://itunes.apple.com/en/app/ioctocat/id669642611?mt=8&ign-mpt=uo%3D4) read github, 'copy git/gist URL clipboard
 
-**codehub**  read github
+[codehub](https://itunes.apple.com/us/app/codehub-a-client-for-github/id707173885?mt=8) read github
 
-**mercury**  web browser,  save page as .webarchive
+[mercury](https://itunes.apple.com/us/app/mercury-web-browser-pro-powerful/id1000610117?mt=8) web browser,  save page as .webarchive
 
-**adblock browser**  simple web browser \w adblock
+[adblock browser](https://itunes.apple.com/us/app/adblock-browser-by-adblock/id1015653330?mt=8) simple web browser \w adblock
 
-**foxbrowser**  web browser, sync firefox bookmarks
+[foxbrowser](https://itunes.apple.com/it/app/foxbrowser/id550365886?mt=8) web browser, sync firefox bookmarks
 
-**feedly**  rss; read on any device in browser 
+[feedly](https://itunes.apple.com/us/app/feedly-your-work-newsfeed/id396069556?mt=8) rss; read on any device in browser 
 
 
 
 ###others
-**miniKeePass**  password manager, multiplatform, ssh key, built in browser allows user/pass paste
+[miniKeePass](https://itunes.apple.com/en/app/minikeepass-secure-password/id451661808?mt=8) password manager, multiplatform, ssh key, built in browser allows user/pass paste
 
-**hippoRemote**  smooth remote touchpad \w keyboard, uses VNC over wifi instead of bluetooth therefore no receiver app needed
+[hippoRemote](https://itunes.apple.com/en/app/hipporemote-pro-wireless-keyboard/id320157370?mt=8) smooth remote touchpad \w keyboard, uses VNC over wifi instead of bluetooth therefore no receiver app needed
 
 
 
