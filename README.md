@@ -84,5 +84,7 @@ http://simp.ly/publish/PLBGFV
 
 [hippoRemote](https://itunes.apple.com/en/app/hipporemote-pro-wireless-keyboard/id320157370?mt=8) smooth remote touchpad \w keyboard, uses VNC over wifi instead of bluetooth therefore no receiver app needed
 
+[Duet Display](https://itunes.apple.com/us/app/duet-display/id935754064?mt=8) use iDevice as your second display over USB on [osx/windows](http://www.duetdisplay.com/#download) 
+
 
 
