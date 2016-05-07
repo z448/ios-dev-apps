@@ -24,7 +24,7 @@ http://simp.ly/publish/PLBGFV
 
 [simplenote](https://itunes.apple.com/en/app/simplenote/id289429962?mt=8) plaintext notes, publish to www, tags
 
-[Launcher](https://itunes.apple.com/us/app/launcher-notification-center/id905099592?mt=8) launch apps:// and http:// from noti center, possible to  send http request w\o opening safari
+[Launcher](https://itunes.apple.com/us/app/launcher-notification-center/id905099592?mt=8) launch apps:// and http:// from noti center, possible to  send http request w\o opening safari, realtime widgets CPU, MEM, disk ...
 
 [pushover](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) noti service; multiple lang. API 
 
