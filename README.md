@@ -1,5 +1,5 @@
-## AppStore iOS apps for development
 http://simp.ly/publish/PLBGFV
+## AppStore iOS apps for development
 
 ###code
 [ServerAuditor](https://itunes.apple.com/en/app/serverauditor-ssh-shell-console/id549039908?mt=8) ssh client
@@ -14,7 +14,7 @@ http://simp.ly/publish/PLBGFV
 
 [regEspresso](https://itunes.apple.com/us/app/regespresso/id903640131?mt=8) regular expressinos
 
-[texastic](https://itunes.apple.com/us/app/textastic-code-editor-6/id1049254261?mt=8) code editor, 'working copy' support, themes, syntax highlight, supports textexpander, support for dropbox, icloud, sftp.., also on osx
+[texastic](https://itunes.apple.com/us/app/textastic-code-editor-6/id1049254261?mt=8) code editor, 'working copy' support, amiga theme to highlight perl strings, syntax highlight, supports textexpander, support for dropbox, icloud, sftp.., also on osx
 
 [draft](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8) 'middleware' texteditor, x-callback-url, custom 5th row keyboard, markdown, javascript, import/export xcallbackurl definitons 
 
@@ -33,11 +33,12 @@ http://simp.ly/publish/PLBGFV
 [telegram](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) open in everywhere, crypto, p2p
 
 ###cloud
+[sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) wont change permissions of synced files unlike cloud apps bellow / usefull for jailbroken devices when using terminal, see [alios](https://github.com/z448/alios) /, bittorrent sync, p2p, linux, ios, android,osx
+
 [owncloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) official owncloud client
 
 [cryptocloud](https://itunes.apple.com/en/app/owncloud/id543672169?mt=8) unofficial owncloud clint \w custom crypto features (connects only to owncloud server \w ssl) 
 
-[sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) bittorrent sync, p2p, linux, ios, android,osx
 
 [dropbox](https://itunes.apple.com/en/app/dropbox/id327630330?mt=8) API
 
