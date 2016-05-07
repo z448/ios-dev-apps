@@ -14,7 +14,7 @@ http://simp.ly/publish/PLBGFV
 
 [regEspresso](https://itunes.apple.com/us/app/regespresso/id903640131?mt=8) regular expressinos
 
-[texastic](https://itunes.apple.com/us/app/textastic-code-editor-6/id1049254261?mt=8) code editor, 'working copy' support, themes, syntax highlight, supports textexpander, support for dropbox, icloud, sftp.., also on osx
+[texastic](https://itunes.apple.com/us/app/textastic-code-editor-6/id1049254261?mt=8) code editor, 'working copy' support, amiga theme to highlight perl strings, syntax highlight, supports textexpander, support for dropbox, icloud, sftp.., also on osx
 
 [draft](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8) 'middleware' texteditor, x-callback-url, custom 5th row keyboard, markdown, javascript, import/export xcallbackurl definitons 
 
