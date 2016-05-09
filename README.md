@@ -51,7 +51,7 @@ http://simp.ly/publish/PLBGFV
 
 [Adobe Illustrator](https://itunes.apple.com/us/app/adobe-illustrator-draw-scalable/id911156590?mt=8) draw, export to .svg
 
-**Photoshop Touch**  layers..., not in AppStore anymore; alternatives [Adobe Photoshop Express](https://itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) + [Adobe Photoshop Fix](https://itunes.apple.com/us/app/adobe-photoshop-fix-retouch/id1033713849?mt=8)
+**Photoshop Touch**  layers..., not in AppStore anymore; alternatives [pixelmator](https://itunes.apple.com/en/app/pixelmator/id924695435?mt=8)
 
 [Vidra](https://itunes.apple.com/us/app/vidra/id879072229?mt=8) presentations
 
@@ -68,7 +68,7 @@ http://simp.ly/publish/PLBGFV
 
 [octocat](https://itunes.apple.com/en/app/ioctocat/id669642611?mt=8&ign-mpt=uo%3D4) read github, 'copy git/gist URL clipboard
 
-[codehub](https://itunes.apple.com/us/app/codehub-a-client-for-github/id707173885?mt=8) read github
+[codehub](https://itunes.apple.com/us/app/codehub-a-client-for-github/id707173885?mt=8) read gist/github
 
 [mercury](https://itunes.apple.com/us/app/mercury-web-browser-pro-powerful/id1000610117?mt=8) web browser,  save page as .webarchive
 
