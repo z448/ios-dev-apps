@@ -30,7 +30,7 @@ http://simp.ly/publish/PLBGFV
 
 
 ###messenger
-[telegram](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) open in everywhere, crypto, p2p
+[telegram](https://itunes.apple.com/en/app/pushover-notifications/id506088175?mt=8) open in everywhere, crypto, p2p, bots: [github bot](https://telegram.me/githubbot)
 
 ###cloud
 [sync](https://itunes.apple.com/us/app/bittorrent-sync-file-transfer/id665156116?mt=8) wont change permissions of synced files unlike cloud apps bellow / usefull for jailbroken devices when using terminal, see [alios](https://github.com/z448/alios) /, bittorrent sync, p2p, linux, ios, android,osx
