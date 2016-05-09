@@ -22,7 +22,7 @@ http://simp.ly/publish/PLBGFV
 
 [iCurlHTTP](https://itunes.apple.com/us/app/icurl/id480568361?mt=8) curl GUI 
 
-[simplenote](https://itunes.apple.com/en/app/simplenote/id289429962?mt=8) plaintext notes, publish to www, tags
+[simplenote](https://itunes.apple.com/en/app/simplenote/id289429962?mt=8) plaintext notes \w cloud sync, publish to www, tags, also on osx,win,linux,web 
 
 [Launcher](https://itunes.apple.com/us/app/launcher-notification-center/id905099592?mt=8) launch apps:// and http:// from noti center, possible to  send http request w\o opening safari, realtime widgets CPU, MEM, disk ...
 
